@@ -14,11 +14,4 @@ void main()
     }  
     printf ( " The binary number is %d \t", binary_num);
     printf (" \n The decimal number is %d \t", decimal_num);
-} 
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
+}
